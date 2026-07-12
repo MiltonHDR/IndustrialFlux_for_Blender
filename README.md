@@ -1,6 +1,7 @@
 # Industrial Flux for Blender
 
 Production tools for Blender focused on industrial visualization, Digital Twins, heavy lifting simulations and technical workflow automation.
+> **Note:** The source code is currently private while the project is under active development. This repository showcases the project's workflows, documentation, and demonstrations.
 
 ---
 
